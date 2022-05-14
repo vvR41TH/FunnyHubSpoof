@@ -1,0 +1,2 @@
+# FunnyHubSpoof
+Funny spoofed website
