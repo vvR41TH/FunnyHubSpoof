@@ -1,2 +1,3 @@
 # FunnyHubSpoof
-Funny spoofed website
+Funny spoofed website of the Hub
+
